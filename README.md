@@ -25,5 +25,5 @@ Activity que muestra una lista de mascotas Favoritas.
 ## Action View Estrella 
 > - Al dar Click en el icono estrella nos lleva a la segunda actividad MascotaFavorita.java
 
-<img src="Activity_principal.png" width="270" height="480"/>
+<img src="Activity_Principal.png" width="270" height="480"/>
 <img src="Activity_Favorito.png" width="270" height="480"/>
